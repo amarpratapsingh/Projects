@@ -1,0 +1,9 @@
+[submodule "Web-Dev-Playground"]
+	path = Web-Dev-Playground
+	url = git@github.com:amarpratapsingh/Web-Dev-Playground.git
+[submodule "C-Playground"]
+	path = C-Playground
+	url = git@github.com:amarpratapsingh/C-Playground.git
+[submodule "Java-Playground"]
+	path = Java-Playground
+	url = git@github.com:amarpratapsingh/Java-Playground.git
